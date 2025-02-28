@@ -1,9 +1,9 @@
-## Last Updated: Feb 27, 2025 👋
+## Last Updated: Feb 27, 2025 
 
 <h1 align="center"> Greetings! </h1> 
-<h3 align="center"> Your AI Partner </h3>  
+<!--h3 align="center"> Your AI Partner </h3-->  
 
-<p align="center"> Welcome to SynchroLux-AI Sphere! </p>
+<h1><p align="center"> Welcome to SynchroLux-AI Sphere! 👋 </p></h1>
 
 <p align="center"><img src="im_bau.png" style="display: block; margin: 0 auto;" alt="My Image"></p>
 <!--h2 align="center">👨‍💻 About Me</h2><p align="center"> 
