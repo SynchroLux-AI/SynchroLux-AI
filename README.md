@@ -5,7 +5,7 @@
 
 <h1><p align="center"> Welcome to SynchroLux-AI Sphere! 👋 </p></h1>
 
-<p align="center"><img src="im_bau.png" style="display: block; margin: 0 auto;" alt="My Image"></p>
+<p align="center"><img src="im_bau.png" style="display: block; margin: 0 auto;" alt="Im Bau"></p>
 <!--h2 align="center">👨‍💻 About Me</h2><p align="center"> 
 I am passionate Data Scientist. </p>  
 <p align="center">From brewing complex machine learning potions to casting data-driven spells for predictive modeling, I embark on thrilling adventures through the vast landscapes of the Data Kingdom.</p-->
