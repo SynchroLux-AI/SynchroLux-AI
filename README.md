@@ -14,7 +14,7 @@ I am passionate Data Scientist. </p>
 
 ----------
 
-<h2 align="center">🛠️ Powerful Toolbox</h2>  
+<h2 align="center">🛠️ Powerful Data Science | AI Toolbox</h2>  
 
 
 <p align="center">
@@ -30,11 +30,11 @@ I am passionate Data Scientist. </p>
   <img src="https://img.shields.io/badge/Matplotlib-%23FF6F00.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-%2370398C.svg?&style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?&style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-  <!--img src="https://img.shields.io/badge/Altair-%237F77D9.svg?&style=for-the-badge&logo=altair&logoColor=white" alt="Altair"-->
+  <img src="https://img.shields.io/badge/Altair-%237F77D9.svg?&style=for-the-badge&logo=altair&logoColor=white" alt="Altair">
   <img src="https://img.shields.io/badge/Bokeh-%23F37626.svg?&style=for-the-badge&logo=bokeh&logoColor=white" alt="Bokeh">
   <img src="https://img.shields.io/badge/H3-%230A53B0.svg?&style=for-the-badge&logo=h3&logoColor=white" alt="H3">
   <!--img src="https://img.shields.io/badge/CausalInference-%230F3879.svg?&style=for-the-badge&logo=causal-inference&logoColor=white" alt="CausalInference"-->
-  <!--img src="https://img.shields.io/badge/CausalML-%23248EE5.svg?&style=for-the-badge&logo=causalml&logoColor=white" alt="CausalML"-->
+  <img src="https://img.shields.io/badge/CausalML-%23248EE5.svg?&style=for-the-badge&logo=causalml&logoColor=white" alt="CausalML">
   <!--img src="https://img.shields.io/badge/Synthetic%20Control-%23E24329.svg?&style=for-the-badge&logo=synthetic-control&logoColor=white" alt="Synthetic Control"-->
    <!--img src="https://img.shields.io/badge/Streamlit-%23576E95.svg?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"-->
   <!--img src="https://img.shields.io/badge/GeoPandas-%2354895E.svg?&style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas"-->  
