@@ -1,6 +1,6 @@
 
 
-Last Updated: Jun 22, 2025 (EDT)<br>
+<span style="color:red;"> Last Updated: Jun 22, 2025 (EDT) </span><br>
  
 <h1 align="center"> Greetings! </h1> 
 <!--h3 align="center"> Your AI Partner </h3-->  
