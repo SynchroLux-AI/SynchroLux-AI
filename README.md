@@ -1,6 +1,8 @@
 
 
 $\\color{yellow}\text{Last Updated: October 4, 2026 (EDT)}$ <br>
+<mark style="background-color: yellow;"> Last Updated: October 4, 2026 (EDT) </mark>
+
  
 <h1 align="center"> Greetings! </h1> 
 <!--h3 align="center"> Your AI Partner </h3-->  
